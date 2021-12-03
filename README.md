@@ -1,6 +1,5 @@
 ## Product Reviews Web Scraper
-#### *  Developed a demo web app to scrape the reviews of the products from an Indian e-commerce website called Flipkart, using
-####    flask framework and python libraries such as requests, beautiful soup.
+#### *  Developed a demo web app to scrape the reviews of the products from an Indian e-commerce website called Flipkart, using flask framework and python libraries such as requests, beautiful soup.
 #### *  Deployed the web scraper app in Heroku cloud platform.
 
 ![image](https://user-images.githubusercontent.com/66690240/144607811-63d6cab9-d6b9-4c68-b882-67c81cb9a11c.png)
